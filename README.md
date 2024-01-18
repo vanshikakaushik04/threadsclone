@@ -1,1 +1,1 @@
-Link:  https://vanshikakaushik04.github.io/threadsclone/
+Link: https://threads-clone-b63d6.web.app/
